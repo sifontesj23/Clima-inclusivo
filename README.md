@@ -1,3 +1,5 @@
+alterando README
+
 **Documentação do projeto Clima Inclusivo**
 
 **Apresentação do projeto**
