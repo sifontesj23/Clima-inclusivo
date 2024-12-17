@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { Header } from './components/Header/Header'; // Importando o Header
 
 function App() {
   return (
-    <div className="">
-
+    <div className="App">
+      <Header/>
     </div>
   );
 }
